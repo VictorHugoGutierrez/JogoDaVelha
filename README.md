@@ -31,7 +31,7 @@ Este projeto foi desenvolvido como requisito obrigatório de avaliação da disc
 | :--- | :--- |
 | **Linguagem** | C# |
 | **Interface** | Windows Forms (WinForms) |
-| **Framework** | .NET [Recomendado: Incluir a versão exata, ex: .NET Framework 4.8] |
+| **Framework** | .NET |
 
 ## 🚀 Como Compilar e Executar
 
